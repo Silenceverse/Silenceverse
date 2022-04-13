@@ -1,0 +1,98 @@
+<html>
+    <head>
+        <title>
+            TABLE WITH HTML.
+        </title>
+        <style>
+            table {
+              font-family: arial, sans-serif;
+              border-collapse: collapse;
+              width: 100%;
+            }
+            
+            td, th {
+              border: 1px solid #dddddd;
+              text-align: left;
+              padding: 8px;
+            }
+            
+            tr:nth-child(even) {
+              background-color: #dddddd;
+            }
+            </style>
+            </head>
+            <body>
+            
+            <h1 style="text-align: center;">WORLD POPULATION 1950-2050</h1>
+            
+            <table>
+              <tr>
+                <th 
+                
+                </th>>Company</th>
+                <th>Contact</th>
+                <th>Country</th>
+              </tr>
+              <tr>
+                <td>Alfreds Futterkiste</td>
+                <td>Maria Anders</td>
+                <td>Germany</td>
+              </tr>
+              </table>
+        <style>
+            table {
+              font-family: arial, sans-serif;
+              border-collapse: collapse;
+              width: 70%;
+            }
+            
+            td, th {
+              border: 1px solid #dddddd;
+              text-align: center;
+              padding: 8px;
+            }
+            
+            tr:nth-child(even) {
+              background-color: #dddddd;
+            }
+            </style>
+            </head>
+            <body>
+                <h1 style="text-align: center;">DISTRIBUTION OF WORLD POPULATION </h1>
+                <table>
+                    <tr>
+                        <th>AFRICA  </th>
+                        <th>ASIA </th>
+                        <th>EUROPE </th>
+                        <th>LATIN AMERICA</th>
+                        <th>NOTH AMERICA</th>
+                        <th>OCEANIA </th>
+                    </tr>
+                    <tr>
+                        <td>9%</td>
+                        <td>56%</td>
+                        <td>22%</td>
+                        <td>6%</td>
+                        <td>7%</td>
+                        <td>1%</td>
+                    </tr>
+                    <tr>
+                        <td>13%</td>
+                        <td>60%</td>
+                        <td>12%</td>
+                        <td>95%</td>
+                        <td>55%</td>
+                        <td>15%</td>
+                    </tr>
+                    <tr>
+                        <td>20%</td>
+                        <td>59%</td>
+                        <td>7%</td>
+                        <td>94%</td>
+                        <td>4%</td>
+                        <td>1%</td>
+                    </tr>
+                </table>
+            </body>
+    </head>
+</html>
